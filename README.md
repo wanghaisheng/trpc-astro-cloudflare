@@ -2,6 +2,10 @@
 
 Modified from the basics template (`npm create astro@latest -- --template basics`) to add [tRPC](https://trpc.io/), [tRPC-panel](https://github.com/iway1/trpc-panel), running on Cloudflare Pages.
 
+
+
+try to deploy
+
 ## Example:
 - Website: https://trpc-astro-cloudflare.pages.dev/
 - tRPC-panel: https://trpc-astro-cloudflare.pages.dev/trpc
